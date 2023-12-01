@@ -1,6 +1,9 @@
 # Description
 JIRA issue: <Insert link here>
-<Add description of changes in this PR that gives additional context to reviewers>
+<Add reference documentations and description of changes in this PR that gives additional context to reviewers>
+
+### Visual reference
+<Add screenshots, video recording or other visual reference for changes if applciable>
 
 # How to Test
 <Add testing steps needed to verify changes>
