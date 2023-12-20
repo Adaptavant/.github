@@ -14,6 +14,7 @@ JIRA issue: <Insert link here>
     - Type of Migration (RESYNC / FORCELOGOUT)
     - Why this migration is required?
 - Is there any speciffic fallback from those changes (revert / feature flag / other)
+- Are there any inter project dependencies
 
 # Checklist
 - [ ] Bug cannot be reproduced with provided scenario after the fix

@@ -8,6 +8,9 @@ JIRA issue: <Insert link here>
 # How to Test
 <Add testing steps needed to verify changes>
 
+# Inter project dependencies
+<spacify any inter project dependencies related to this PR>
+
 # Additioanl considerations
 <is it breaking change; requires upstream/downstream update; what is recovery/fallback>
 
