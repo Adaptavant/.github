@@ -3,7 +3,7 @@ JIRA issue: <Insert link here>
 <Add reference documentations and description of changes in this PR that gives additional context to reviewers>
 
 ### Visual reference
-<Add screenshots, video recording or other visual reference for changes if applciable>
+<Add screenshots, video recording or other visual reference for changes if applicable>
 
 # How to Test
 <Add testing steps needed to verify changes>
@@ -13,7 +13,7 @@ JIRA issue: <Insert link here>
 - Do we need Migration. If so:
     - Type of Migration (RESYNC / FORCELOGOUT)
     - Why this migration is required?
-- Is there any speciffic fallback from those changes (revert / feature flag / other)
+- Is there any specific fallback from those changes (revert / feature flag / other)
 - Are there any inter project dependencies
 
 # Checklist
