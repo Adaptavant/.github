@@ -1,18 +1,19 @@
 # Description
-JIRA issue: <Insert link here>
-<Add reference documentations and description of changes in this PR that gives additional context to reviewers>
+JIRA issue: <!--JIRA_issue_ID-->
+<!--github automatically converts JIRA IDs into clickable links-->
+<!--Add reference documentations and description of changes in this PR that gives additional context to reviewers-->
 
 ### Visual reference
-<Add screenshots, video recording or other visual reference for changes if applicable>
+<!--Add screenshots, video recording or other visual reference for changes if applicable-->
 
 # How to Test
-<Add testing steps needed to verify changes>
+<!--Add testing steps needed to verify changes-->
 
 # Inter project dependencies
-<specify any inter project dependencies related to this PR>
+<!--specify any inter project dependencies related to this PR-->
 
 # Additional considerations
-<is it breaking change; requires upstream/downstream update; what is recovery/fallback>
+<!--is it breaking change; requires upstream/downstream update; what is recovery/fallback-->
 
 # Checklist
 - [ ] New and updated code is logically covered with tests and does not violate product requirements
