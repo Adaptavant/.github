@@ -1,12 +1,14 @@
 # Description
-JIRA issue: <Insert link here>
-<Add reference documentations and description of changes in this PR that gives additional context to reviewers>
+JIRA issue: <!--JIRA_issue_ID-->
+<!--github automatically converts JIRA IDs into clickable links-->
+<!--Add reference documentations and description of changes in this PR that gives additional context to reviewers-->
 
 ### Visual reference
-<Add screenshots, video recording or other visual reference for changes if applicable>
+
+<!--Add screenshots, video recording or other visual reference for changes if applicable-->
 
 # How to Test
-<Add testing steps needed to verify changes>
+<!--Add testing steps needed to verify changes-->
 
 # Considerations (if any)
 - Does it require any major changes in the consumer
