@@ -21,7 +21,6 @@ JIRA issue: <!--JIRA_issue_ID-->
 - [ ] New and updated code does not triggers linter warnings or errors
 - [ ] Changes are made according to style guide and coding standards of this project
 - [ ] Required documentation is added and/or updated (Inline and/or README)
-- [ ] User facing strings(/texts) are localized
 - [ ] New extension/helper/code is not duplicated
 - [ ] Required Logging is added
 - [ ] The code has been thoroughly reviewed for potential security vulnerabilities
